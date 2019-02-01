@@ -1,9 +1,8 @@
-# 重要：
-该项目已废弃，新创建了一个 https://github.com/littleMeaning/LMNote 
+# Important:
+The project has been deprecated and a new https://github.com/littleMeaning/LMNote has been created.
 
 # SimpleWord
-模仿石墨文档文档编辑器，使用原生代码写的富文本编辑器，支持字体、颜色设置，支持缩进，列表、checkbox，支持插入图片等。
+Imitate the Graph Document Document Editor, a rich text editor written in native code, support for fonts, color settings, support for indentation, lists, checkboxes, support for inserting images, and more.
 
-## 展示
-
+## Showcase
 ![image](https://github.com/littleMeaning/SimpleWord/blob/master/display.gif)
